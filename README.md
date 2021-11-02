@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="" src="./home-tmdb.png" height-max='720px'>
+  <img alt="" src="./readme.png" height-max='720px'>
 </p>
 
 <p>Link para visitar o site : 
-<!-- <a href="https://tmdbdany.netlify.app/" />Demo</a> -->
+<a href="https://6181c875ef19e600072f4650--focused-bohr-222a38.netlify.app/" />Demo</a>
 </p>
 <p align='center'> Memories site<p/>
 
@@ -31,13 +31,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Hooks
 - Material Ui 
 - Redux/Redux-thunk
+
+Back end
 - MongoDB
 - Node.js
 
 ## 💻 Projeto
 
-O projeto sera um site com crud em Mongo DB com auth .
-
+O projeto sera um site com crud em Mongo DB esse é front-end da aplicação para encontrar o back end 
+<a href="https://github.com/dany679/Memories-MongoDB-SERVER" />Click aqui</a>
 ## :memo: Licença
 
 MIT
@@ -59,3 +61,4 @@ $ yarn start
 
 
 ---
+
