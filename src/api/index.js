@@ -1,6 +1,6 @@
 import axios from 'axios';
-const url = 'http://localhost:5000/posts';
-// export const updatePost = (id, post) => axios.patch(`${url}/${id}`, post);
+// const url = 'http://localhost:5000/posts';
+const url = 'https://memories-dani.herokuapp.com/posts';
 
 export const fetchPost = () => axios.get(url);
 export const createPost = (newPost) => axios.post(url, newPost);
